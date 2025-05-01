@@ -20,9 +20,10 @@ This project applies survival analysis and CLV modeling on a telco customer data
 ## ⚙️ How to Run
 
 1. Clone the repository or download the project files.
-2. 
+``` 
+https://github.com/annaminasyann/Survival_Analysis.git
+```
 
-1. Clone this repo.
 2. Install dependencies using:
 
 ```
