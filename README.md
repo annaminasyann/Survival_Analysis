@@ -30,7 +30,7 @@ https://github.com/annaminasyann/Survival_Analysis.git
 pip install -r requirements.txt
 ```
 
-3. Run DS223Anna_MinasyanHW5.ipynb
+3. Run DS223Anna_MinasyanHW3.ipynb
 
 
 - Author: Anna Minasyan
