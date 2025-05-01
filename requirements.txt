@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.22
+matplotlib>=3.5
+lifelines>=0.27.0
+scikit-learn>=1.0
+scipy>=1.8
+jinja2>=3.1.2
